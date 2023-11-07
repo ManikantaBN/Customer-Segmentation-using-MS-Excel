@@ -24,7 +24,19 @@ Overall, this project aims to help digital marketers and businesses shift their 
 # Dataset Description
 This dataset contains information related to invoices and transactions. It includes the following columns:
 
-1.) InvoiceNo: A unique identifier for each invoice or transaction. 2.) StockCode: A code that represents the stock or item associated with the transaction. 3.) Description: A brief description of the stock or item. 4.) Quantity: The quantity of the item purchased or involved in the transaction. 5.) UnitPrice: The price of a single unit of the item. 6.) CustomerID: The unique identifier of the customer associated with the transaction. 7.) InvoiceDate: The date and time when the invoice or transaction occurred.
+1.) InvoiceNo: A unique identifier for each invoice or transaction. 
+
+2.) StockCode: A code that represents the stock or item associated with the transaction. 
+
+3.) Description: A brief description of the stock or item. 
+
+4.) Quantity: The quantity of the item purchased or involved in the transaction. 
+
+5.) UnitPrice: The price of a single unit of the item. 
+
+6.) CustomerID: The unique identifier of the customer associated with the transaction. 
+
+7.) InvoiceDate: The date and time when the invoice or transaction occurred.
 
 This dataset is valuable for various analyses, including sales and revenue tracking, customer behavior analysis, and inventory management.
 
